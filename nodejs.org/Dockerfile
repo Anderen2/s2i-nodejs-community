@@ -1,5 +1,4 @@
-FROM openshift/base-centos7
-
+FROM alpine-node
 # This image provides a Node.JS environment you can use to run your Node.JS
 # applications.
 
